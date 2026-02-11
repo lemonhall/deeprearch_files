@@ -1,0 +1,17 @@
+node_modules/
+npm-debug.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Generated thumbnails / exports
+*.png
+*.jpg
+*.jpeg

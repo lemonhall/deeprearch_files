@@ -1,0 +1,24 @@
+{
+  "name": "deeprearch_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:uk-beans": "node tools/build-uk-baked-beans-pptx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemonhall/deeprearch_files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lemonhall/deeprearch_files/issues"
+  },
+  "homepage": "https://github.com/lemonhall/deeprearch_files#readme",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}

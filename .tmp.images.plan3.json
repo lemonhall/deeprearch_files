@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "theme": "golden-hour",
+  "model_hint": "gemini-3-pro-image-preview",
+  "images": [
+    {
+      "name": "slide-05",
+      "slide_number": 5,
+      "size": "16:9",
+      "resolution": "1K",
+      "prompt": "Create a modern editorial illustration for a presentation slide.\nTopic: 为什么英国人这么爱吃罐装烘豆（baked beans）？（Deep Research）\nSlide focus: 1) “罐头+品牌进入英国”把它带进日常\nContext: 一条常被引用的叙事是：Heinz 早期把罐装烘豆带到伦敦作为样品进入高端零售渠道，随后随着产能与供应链本地化、价格逐步下降，烘豆从“稀罕/偏奢侈的进口罐头”变成更大众可及的食品。Chatham House 还给出了一个很直观的价格对比：早期进口罐头在当时是昂贵商品，但到 1920s 价格显著下降，成为更普及的日常补给。\nStyle: warm mustard yellow + terracotta + soft beige palette, cozy but premium; flat vector / editorial, subtle grain, clean shapes.\nComposition: subject centered, plenty of negative space around edges, 16:9 friendly.\nConstraints: no text, no captions, no logos, no watermarks, no brand marks.\nQuality: crisp, high detail, professional, not cartoonish.\n"
+    },
+    {
+      "name": "slide-06",
+      "slide_number": 6,
+      "size": "16:9",
+      "resolution": "1K",
+      "prompt": "Create a modern editorial illustration for a presentation slide.\nTopic: 为什么英国人这么爱吃罐装烘豆（baked beans）？（Deep Research）\nSlide focus: 2) 战争时期与“耐放、可冷食”的优势\nContext: 在英国关于烘豆的公共叙事里，二战和战后“家庭如何在约束条件下吃饱”是关键背景：罐头烘豆耐储存、加热快、哪怕没条件也能勉强冷食，因此容易成为“总能派上用场”的储备品。 Chatham House 的文章提到，战时烘豆被宣传为“保持体力”的食物；在冷战时期的民防语境里，家庭也被建议储备烘豆等耐储存食品，以应对能源或供应中断。\nStyle: warm mustard yellow + terracotta + soft beige palette, cozy but premium; flat vector / editorial, subtle grain, clean shapes.\nComposition: subject centered, plenty of negative space around edges, 16:9 friendly.\nConstraints: no text, no captions, no logos, no watermarks, no brand marks.\nQuality: crisp, high detail, professional, not cartoonish.\n"
+    },
+    {
+      "name": "slide-07",
+      "slide_number": 7,
+      "size": "16:9",
+      "resolution": "1K",
+      "prompt": "Create a modern editorial illustration for a presentation slide.\nTopic: 为什么英国人这么爱吃罐装烘豆（baked beans）？（Deep Research）\nSlide focus: 3) 经济学：它长期被当作“便宜蛋白+便捷热量”的代表\nContext: 你觉得“难吃”并不奇怪：很多人吃它主要是 功能性——便宜、方便、稳定、吃起来饱。 The Independent 报道过 1990s 英国超市自有品牌烘豆的极端价格战（甚至出现限购），这种“极低价格 + 高周转”的商业事实，会把烘豆进一步推向“学生/打工人/家庭常备”。\nStyle: warm mustard yellow + terracotta + soft beige palette, cozy but premium; flat vector / editorial, subtle grain, clean shapes.\nComposition: subject centered, plenty of negative space around edges, 16:9 friendly.\nConstraints: no text, no captions, no logos, no watermarks, no brand marks.\nQuality: crisp, high detail, professional, not cartoonish.\n"
+    },
+    {
+      "name": "slide-08",
+      "slide_number": 8,
+      "size": "16:9",
+      "resolution": "1K",
+      "prompt": "Create a modern editorial illustration for a presentation slide.\nTopic: 为什么英国人这么爱吃罐装烘豆（baked beans）？（Deep Research）\nSlide focus: 4) 文化绑定：full English 与 beans on toast\nContext: 烘豆在英国并非只是“配菜”，它常被当作标准化的“盘子组件”：full English breakfast 里，很多人把“beans”视作必备项之一。 YouGov 的调查显示，在英格兰受访者心目中，“beans”被相当比例的人视为理想 full English 的必备元素（与培根、香肠、吐司等一起构成“标准答案”）。\nStyle: warm mustard yellow + terracotta + soft beige palette, cozy but premium; flat vector / editorial, subtle grain, clean shapes.\nComposition: subject centered, plenty of negative space around edges, 16:9 friendly.\nConstraints: no text, no captions, no logos, no watermarks, no brand marks.\nQuality: crisp, high detail, professional, not cartoonish.\n"
+    },
+    {
+      "name": "slide-09",
+      "slide_number": 9,
+      "size": "16:9",
+      "resolution": "1K",
+      "prompt": "Create a modern editorial illustration for a presentation slide.\nTopic: 为什么英国人这么爱吃罐装烘豆（baked beans）？（Deep Research）\nSlide focus: 5) 口味差异：英式烘豆不是美式那种“甜烟熏”\nContext: 跨文化踩雷点在这里： - 美式烘豆常见更甜、更浓稠，可能带烟熏/糖蜜/肉味； - 英式罐装烘豆通常是 更清爽的番茄底、整体不那么甜、且常见无肉版本。 因此，如果你期待“甜香浓郁的BBQ side dish”，打开英式烘豆很可能就会觉得“淡、酸、番茄味重、像番茄酱煮豆子”。\nStyle: warm mustard yellow + terracotta + soft beige palette, cozy but premium; flat vector / editorial, subtle grain, clean shapes.\nComposition: subject centered, plenty of negative space around edges, 16:9 friendly.\nConstraints: no text, no captions, no logos, no watermarks, no brand marks.\nQuality: crisp, high detail, professional, not cartoonish.\n"
+    }
+  ]
+}
